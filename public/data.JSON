@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Yamaha YZF R15 V 3.0 Bike",
+      "description": "Yamaha YZF R15 V3 is powered by 155 cc engine.This R15 V3 engine generates a power of 18.4 PS @ 10000 rpm and a torque of 14.2 Nm @ 7500 rpm. The claimed mileage of R15 V3 is 48.75 kmpl",
+      "img": "https://i.ibb.co/Hz5MvCg/Background-15.png",
+      "price": "300000"
+    },
+    {
+      "id": 2,
+      "name": "KTM RC 125",
+      "description": "The KTM RC 125 is powered by a 124.7 cc air-cooled engine which produces of power. It has a fuel tank of 9.5 L and a",
+      "img": "https://i.ibb.co/vQnsVys/ktm-rc-125-19-jun-2019.jpg",
+      "price": "320000"
+    },
+    {
+      "id": 3,
+      "name": "Honda CB300R",
+      "description": "Honda CB300R is the second Sport Naked bike from the house of Honda Motorcycles in India after CB1000R.",
+      "img": "https://i.ibb.co/dDJ9dYx/Background-19.png",
+      "price": "275000"
+    },
+    {
+      "id": 4,
+      "name": " royal CBR300R",
+      "description": "It has, at its heart, a liquid-cooled, four-stroke, 286cc, single cylinder powerhouse",
+      "img": "https://i.ibb.co/zJcXg1m/royal-enfield-classic-accessories-under-5000-main-401x267.jpg",
+      "price": "220000"
+    },
+    {
+      "id": 5,
+      "name": "Honda confirms CB300F",
+      "description": " The CB300F is really just a CBR300 that’s lost a bit of plastic and gained a nice upright handlebar.",
+      "img": "https://i.ibb.co/wyZTSn6/Background-18.png",
+      "price": "450000"
+    },
+    {
+      "id": 6,
+      "name": "Suzuki Gixxer SF 250",
+      "description": "Suzuki Gixxer SF 250 is a sports bike available at a starting price of Rs. 1,82,133 in India. ",
+      "img": "https://i.ibb.co/TtnGPyg/gsx-r1000r.jpg",
+      "price": "220000"
+    },
+    {
+      "id": 7,
+      "name": "Suzuki GSX-R150",
+      "description": "\tSuzuki GSX-R150 was recently unveiled in Indonesia and it marks the comeback of a valuable brand",
+      "img": "https://i.ibb.co/0yR8Zr6/suzuki-gixxer-sf-250-motogp-edition-bs-vi20200528161432.jpg",
+      "price": "280000"
+    },
+    {
+      "id": 8,
+      "name": "Suzuki GSX-R1000R",
+      "description": " The Japanese manufacturing company “Suzuki” launched its exclusive liter-class supersports bike christened as Suzuki GSX-R1000 back in year 2001",
+      "img": "https://i.ibb.co/Fg5xvjB/suzuki-gsx-r150-yellow-1yhzqgl2cxcrn9rm1in1hb79nzwamk9gnzj7z3u8nm90.jpg",
+      "price": "500000"
+    },
+    {
+      "id": 9,
+      "name": "Suzuki Gixxer 155 Fi ABS",
+      "description": "This bike is powered by 155 cc engine which generates Maximum power 14.8ps@8,000rpm and its maximum torque is 14.0 Nm@6000rpm",
+      "img": "https://i.ibb.co/QngcWkn/Suzuki-Gixxer-155-Fi-ABS.jpg",
+      "price": "240000"
+    },
+    {
+      "id": 10,
+      "name": "Yamaha MT-125",
+      "description": "Sophisticated Negative LCD Instruments, Dual Slant-Eye Positions LED Headlight, Assist and Slipper Clutch, 125cc EU5 ",
+      "img": "https://i.ibb.co/QQTvBFB/download.jpg",
+      "price": "350000"
+    },
+    {
+      "id": 11,
+      "name": "Yamaha FZ",
+      "description": "The Yamaha FZS-FI V3 is powered by a 149 cc air-cooled engine which produces of power. It has a fuel tank of 13 L and a ",
+      "img": "https://i.ibb.co/V3y5Wjh/yamaha-fz-front-three-quarter7.jpg",
+      "price": "185000"
+    },
+    {
+      "id": 12,
+      "name": " Yamaha FZ FI",
+      "description": "The new FZFI with a Blue Core concept driven 149 cc engine now with Side stand engine cutoff switch and Bluetooth-enabled Yamaha Motorcycle Connect X.",
+      "img": "https://i.ibb.co/yVY2qD2/salutodisc-met-greenjpg-1.jpg",
+      "price": "2250000"
+    },
+    {
+      "id": 13,
+      "name": " Yamaha Fazer",
+      "description": "Our sources have confirmed that the Yamaha Fazer is all set to receive single-channel ABS from February 2019 onwards",
+      "img": "https://i.ibb.co/74LBGRt/yamaha-fazer-25.jpg",
+      "price": "196000"
+    },
+    {
+      "id": 14,
+      "name": "Yamaha Saluto",
+      "description": "Yamaha has introduced the Saluto 125 with Unified Braking System (UBS). This feature is essentially a combined braking",
+      "img": "https://i.ibb.co/gSh2s8z/download-1.jpg",
+      "price": "50000"
+    },
+    {
+      "id": 15,
+      "name": "suzuki 100cc bike old model",
+      "description": "Max 100 is the another product of the alliance between TVS and Suzuki. Launched in 1998, it was a very popular motorcycle in rural and urban roads of India for more than a decade",
+      "img": "https://i.ibb.co/hRXc5sx/images-1.jpg",
+      "price": "95000"
+    },
+    {
+      "id": 16,
+      "name": "Pulsar 150cc",
+      "description": "55p, bajaj, battery 12v, compression ration, disc type, engine displacement, fuel tank capacity,",
+      "img": "https://i.ibb.co/tDwDSbj/images.jpg",
+      "price": "150000"
+    }
+  ]

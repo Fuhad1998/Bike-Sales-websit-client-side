@@ -1,0 +1,21 @@
+.login-container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.login-container input{
+    width: 350px;
+    
+}
+.login-container textarea{
+    width: 350px;
+    
+}
+.btn-submit{
+    border-radius: 5px;
+    background-color:goldenrod;
+    border: 1px solid gray;
+}

@@ -1,0 +1,15 @@
+.header-container nav{
+    display: flex;
+    justify-content: end;
+}
+.header-link{
+    text-decoration: none;
+    font-weight: 600;
+    color:black;
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header-link:hover{
+    color: black;
+}
