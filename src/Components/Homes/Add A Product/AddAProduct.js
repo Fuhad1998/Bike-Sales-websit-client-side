@@ -51,7 +51,7 @@ const AddAProduct = () => {
           type="number"
         />
         <br />
-        <input className="btn-submit mb-4" type="submit" value="Please Login" />
+        <input className="btn-submit mb-4" type="submit" value="Please Add product" />
       </form>
     </div>
   );

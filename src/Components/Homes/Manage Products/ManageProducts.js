@@ -58,7 +58,7 @@ const ManageProducts = () => {
                         <button 
                         onClick={() => handelDeleteManageProducts(manageProduct?._id)}
                         className="btn-submit w-50 mx-5 "
-                        >Delete Order</button>
+                        >Delete Product</button>
                     </Card.Body>
                     </Card>
                     </Col>)

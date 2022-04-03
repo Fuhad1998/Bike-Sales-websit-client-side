@@ -7,8 +7,8 @@ const Register = () => {
   const {registerUser} = useAuth();
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => {
-    console.log(data.name)
-    console.log(data)
+    // console.log(data.name)
+    // console.log(data)
       alert('Register successful')
      
       registerUser(data.email, data.password, data.name)
